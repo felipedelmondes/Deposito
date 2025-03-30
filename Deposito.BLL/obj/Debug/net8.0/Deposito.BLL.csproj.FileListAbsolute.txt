@@ -1,0 +1,12 @@
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/bin/Debug/net8.0/Deposito.BLL.deps.json
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/bin/Debug/net8.0/Deposito.BLL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/bin/Debug/net8.0/Deposito.BLL.pdb
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.csproj.AssemblyReference.cache
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.AssemblyInfoInputs.cache
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.AssemblyInfo.cs
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.csproj.CoreCompileInputs.cache
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/refint/Deposito.BLL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.pdb
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/ref/Deposito.BLL.dll

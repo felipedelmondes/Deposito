@@ -1,0 +1,15 @@
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.DAL.deps.json
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.DAL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.DAL.pdb
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.csproj.AssemblyReference.cache
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.AssemblyInfoInputs.cache
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.AssemblyInfo.cs
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.csproj.CoreCompileInputs.cache
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/refint/Deposito.DAL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.pdb
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/ref/Deposito.DAL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.BLL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.BLL.pdb
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.csproj.CopyComplete
