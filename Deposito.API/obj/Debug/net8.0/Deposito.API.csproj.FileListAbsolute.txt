@@ -60,3 +60,13 @@
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Deposito.DAL.pdb
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Deposito.BLL.dll
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Deposito.BLL.pdb
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/obj/Debug/net8.0/Deposito.API.sourcelink.json
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.Bcl.Memory.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll

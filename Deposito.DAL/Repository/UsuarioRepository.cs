@@ -136,4 +136,30 @@ public class UsuarioRepository:IUsuarioRepository
             throw ex;
         }
     }
+
+    public bool ValidarUsuario(string username, string password)
+    {
+        var query = @$" select count(1) from deposito.usuario u where u.username = '{username}' and u.senha_hash = '{password}' ";
+        int retorno = 0;
+
+        try
+        {
+            using (var conn = _context.CreateConnection())
+            {
+                retorno = conn.Query<int>(query).FirstOrDefault();
+            }
+            if (retorno == 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        catch(Exception ex){
+            throw ex;
+        }
+
+    }
 }

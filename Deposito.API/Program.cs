@@ -1,9 +1,13 @@
+using System.Text;
 using Deposito.BLL.CryptoService;
 using Deposito.BLL.Interfaces.Repository;
 using Deposito.BLL.Interfaces.Services;
 using Deposito.BLL.Services;
 using Deposito.DAL.Context;
 using Deposito.DAL.Repository;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +23,26 @@ builder.Services.AddControllers();
 builder.Services.AddTransient<DBContext, DBContext>();
 builder.Services.AddTransient<IUsuarioService, UsuariosService>();
 builder.Services.AddTransient<IUsuarioRepository, UsuarioRepository>();
+
+builder.Services.AddAuthentication(options =>{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+    };
+});
+builder.Services.AddTransient<ITokenService, TokenService>();
+
 
 var app = builder.Build();
 

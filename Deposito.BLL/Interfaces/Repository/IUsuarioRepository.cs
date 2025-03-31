@@ -9,5 +9,6 @@ public interface IUsuarioRepository
     public UsuariosDTO BuscarUsuarioPorLogin(string login);
     public bool CadastraUsuario(UsuarioCadastroViewModel usuario);
     public bool VerificaSeTemCadastro(UsuarioCadastroViewModel usuario);
+    public bool ValidarUsuario(string username, string password);
     
 }

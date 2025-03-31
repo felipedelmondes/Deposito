@@ -13,3 +13,4 @@
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.BLL.dll
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/bin/Debug/net8.0/Deposito.BLL.pdb
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.csproj.CopyComplete
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/obj/Debug/net8.0/Deposito.DAL.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KKvOkknNDwE=",
+  "dgSpecHash": "H13vBRMp8MVklx6sRmYE6cCg1gGuMZLix11JoFFKDes3d6Y5SnNAZ/uJ83rZHITvPh6IW63LLOZVL6nFJqtKYQ==",
   "success": true,
   "projectFilePath": "/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.DAL/Deposito.DAL.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "/home/fedelmondes/.nuget/packages/dapper.extensions.netcore/5.2.0/dapper.extensions.netcore.5.2.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/dapper.extensions.postgresql/5.2.0/dapper.extensions.postgresql.5.2.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/dapper.oracle/2.0.2/dapper.oracle.2.0.2.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.3/microsoft.aspnetcore.authentication.jwtbearer.8.0.3.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.bcl.memory/9.0.0/microsoft.bcl.memory.9.0.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/microsoft.extensions.configuration/9.0.0/microsoft.extensions.configuration.9.0.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0/microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/microsoft.extensions.configuration.binder/9.0.0/microsoft.extensions.configuration.binder.9.0.0.nupkg.sha512",
@@ -25,10 +27,17 @@
     "/home/fedelmondes/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0/microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/microsoft.extensions.options/9.0.0/microsoft.extensions.options.9.0.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.identitymodel.abstractions/8.7.0/microsoft.identitymodel.abstractions.8.7.0.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.7.0/microsoft.identitymodel.jsonwebtokens.8.7.0.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.identitymodel.logging/8.7.0/microsoft.identitymodel.logging.8.7.0.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/microsoft.identitymodel.tokens/8.7.0/microsoft.identitymodel.tokens.8.7.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/mysqlconnector/2.4.0/mysqlconnector.2.4.0.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/home/fedelmondes/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
-    "/home/fedelmondes/.nuget/packages/system.diagnostics.diagnosticsource/9.0.0/system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512"
+    "/home/fedelmondes/.nuget/packages/system.diagnostics.diagnosticsource/9.0.0/system.diagnostics.diagnosticsource.9.0.0.nupkg.sha512",
+    "/home/fedelmondes/.nuget/packages/system.identitymodel.tokens.jwt/8.7.0/system.identitymodel.tokens.jwt.8.7.0.nupkg.sha512"
   ],
   "logs": []
 }

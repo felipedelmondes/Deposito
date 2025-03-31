@@ -10,3 +10,4 @@
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/refint/Deposito.BLL.dll
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.pdb
 /home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/ref/Deposito.BLL.dll
+/home/fedelmondes/Documentos/projetos/DepositoNew/Deposito/Deposito.BLL/obj/Debug/net8.0/Deposito.BLL.sourcelink.json
